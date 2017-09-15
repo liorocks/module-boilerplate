@@ -2,6 +2,7 @@
   "name": "module-boilerplate",
   "version": "0.0.0-development",
   "main": "src/index.js",
+  "browser": "dist/index.js",
   "repository": "git@github.com:Landish/module-boilerplate.git",
   "author": "Lado Lomidze <lado.lomidze@gmail.com> (https://ladolomidze.com/)",
   "license": "MIT",

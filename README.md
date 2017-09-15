@@ -8,6 +8,16 @@ NPM Module Boilerplate
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Landish/module-boilerplate)
 
+## Getting Started
+
+```shell
+$ git clone git@github.com:Landish/module-boilerplate.git
+$ cd module-boilerplate
+$ rm -rf .git
+$ git init
+$ git remote add origin https://github.com/username/repository.git
+```
+
 ## Alternatives
 
 - [npm-boilerplate](https://www.npmjs.com/package/npm-boilerplate)

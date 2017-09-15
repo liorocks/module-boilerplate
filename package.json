@@ -1,6 +1,6 @@
 {
   "name": "module-boilerplate",
-  "version": "0.0.1",
+  "version": "0.0.0-development",
   "main": "src/index.js",
   "repository": "git@github.com:Landish/module-boilerplate.git",
   "author": "Lado Lomidze <lado.lomidze@gmail.com> (https://ladolomidze.com/)",
@@ -23,7 +23,8 @@
     "build": "babel src -d dist",
     "format": "prettier --write {src,__tests__}/**/*.{js,jsx,json}",
     "test": "jest",
-    "test:watch": "jest --watch"
+    "test:watch": "jest --watch",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
@@ -34,6 +35,7 @@
     "jest": "^21.1.0",
     "lint-staged": "^4.2.1",
     "prettier": "^1.7.0",
-    "rimraf": "^2.6.2"
+    "rimraf": "^2.6.2",
+    "semantic-release": "^7.0.2"
   }
 }

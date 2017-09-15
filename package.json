@@ -24,7 +24,7 @@
     "format": "prettier --write {src,__tests__}/**/*.{js,jsx,json}",
     "test": "jest",
     "test:watch": "jest --watch",
-    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+    "release": "semantic-release pre && npm publish && semantic-release post"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",

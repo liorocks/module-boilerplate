@@ -3,10 +3,10 @@
 NPM Module Boilerplate
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Travis](https://img.shields.io/travis/Landish/module-boilerplate.svg)](https://github.com/Landish/module-boilerplate)
+[![Travis](https://img.shields.io/travis/Landish/module-boilerplate.svg)](https://travis-ci.org/Landish/module-boilerplate)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Landish/module-boilerplate)
+[![license](https://img.shields.io/github/license/Landish/module-boilerplate.svg)](https://github.com/Landish/module-boilerplate/blob/master/LICENSE)
 
 ## Getting Started
 

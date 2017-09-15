@@ -9,6 +9,13 @@ NPM Module Boilerplate
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![license](https://img.shields.io/github/license/Landish/module-boilerplate.svg)](https://github.com/Landish/module-boilerplate/blob/master/LICENSE)
 
+## Features
+- Build with [Babel](https://babeljs.io/)
+- Test with [Jest](https://facebook.github.io/jest/)
+- Git commit styles with [commitizen](https://github.com/commitizen/cz-cli) and [cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog)
+- Automated package publishing with [semantic-release](https://github.com/semantic-release/semantic-release)
+- CI with [Travis](https://travis-ci.org/)
+
 ## Getting Started
 
 ```shell
@@ -19,7 +26,8 @@ $ git init
 $ git remote add origin https://github.com/username/repository.git
 ```
 
-### NPM Scripts
+## NPM Scripts
+
 - `npm run build` compiles ES6 to ES5 with [Babel](https://babeljs.io/)
 - `npm run cz` propmts [cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog) with [commitizen](https://github.com/commitizen/cz-cli)
 - `npm run format` formats code with [Prettier](https://github.com/prettier/prettier) using settings from `.prettierrc` file

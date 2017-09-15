@@ -7,8 +7,8 @@ cache:
 notifications:
   email: false
 before_script:
-  - npm install jest
+  - yarn add jest semantic-release
 script:
-  - npm test
+  - yarn test
 after_success:
-  - npm run semantic-release
+  - yarn semantic-release

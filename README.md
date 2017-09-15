@@ -11,7 +11,7 @@ NPM Module Boilerplate
 ## Alternatives
 
 - [npm-boilerplate](https://www.npmjs.com/package/npm-boilerplate)
-- [npm-module-boilerplate](https://www.npmjs.com/package/npm-module-boilerplate)
 - [npm-package-boilerplate](https://www.npmjs.com/package/npm-package-boilerplate)
+- [npm-module-boilerplate](https://www.npmjs.com/package/npm-module-boilerplate)
 - [npm-module-es6-boilerplate](https://www.npmjs.com/package/npm-module-es6-boilerplate)
 - [npm-module-boilerplate-es6](https://www.npmjs.com/package/npm-module-boilerplate-es6)

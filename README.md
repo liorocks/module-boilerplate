@@ -18,6 +18,14 @@ $ git init
 $ git remote add origin https://github.com/username/repository.git
 ```
 
+### NPM Scripts
+- `npm run build` compiles ES6 to ES5 with [Babel](https://babeljs.io/)
+- `npm run cz` propmts [cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog) with [commitizen](https://github.com/commitizen/cz-cli)
+- `npm run format` formats code with [Prettier](https://github.com/prettier/prettier) using settings from `.prettierrc` file
+- `npm run test` runs tests with [Jest](https://facebook.github.io/jest/)
+- `npm run test:watch` runs tests with `--watch` flag
+- `npm run release` releases package with [semantic-release](https://github.com/semantic-release/semantic-release)
+
 ## Alternatives
 
 - [npm-boilerplate](https://www.npmjs.com/package/npm-boilerplate)

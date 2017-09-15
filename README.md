@@ -25,3 +25,7 @@ $ git remote add origin https://github.com/username/repository.git
 - [npm-module-boilerplate](https://www.npmjs.com/package/npm-module-boilerplate)
 - [npm-module-es6-boilerplate](https://www.npmjs.com/package/npm-module-es6-boilerplate)
 - [npm-module-boilerplate-es6](https://www.npmjs.com/package/npm-module-boilerplate-es6)
+
+## Licence
+
+[The MIT License (MIT)](https://github.com/Landish/module-boilerplate/blob/master/LICENSE).
